@@ -1,0 +1,7 @@
+.clickfade {
+    cursor: pointer;
+    font-weight: bold;
+    display:none
+}
+.value-fadetoggle, .value-fadetoggle2 , .value-fadetoggle3, .value-fadetoggle4, .value-fadetoggle5, .value-fadetoggle6, .value-fadetoggle7, .value-fadetoggle8, .value-fadetoggle9, .value-fadetoggle10, .value-fadetoggle11, .value-fadetoggle12, .value-fadetoggle13, .value-fadetoggle14, .value-fadetoggle15, .value-fadetoggle16, .value-fadetoggle17, .value-fadetoggle18 {
+  display: none;
